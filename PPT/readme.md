@@ -1,2 +1,2 @@
 ppt pdf
-file:///C:/Users/hp/Downloads/SOUTH%20INDIAN%20BANK%20PPT%20PDF.pdf
+[SOUTH INDIAN BANK PPT PDF.pdf](https://github.com/user-attachments/files/19432863/SOUTH.INDIAN.BANK.PPT.PDF.pdf)
